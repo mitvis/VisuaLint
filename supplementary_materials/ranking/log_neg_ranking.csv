@@ -1,0 +1,63 @@
+Primary Key,Participant ID,Treatment Group,Error Type ,Error Explanation,Visual,Text,Text+Visual,None of the Above,Rank Explanation
+349,5c665e1948985d0001f09675,Text,Log Neg,negative values in the data but a logarithmic scale is used,1,3,2,4,Visual text is enough to find the error
+358,5c66cc9246bfc200019044b8,TextLint,Log Neg,Negative values in a logarithmic scale.,1,2,3,4,The graph needs to clear when you look at it.
+362,5cab8cadd0f9c90016b178b0,TextLint,Log Neg,Graph does not use logarithmic scale.,1,2,3,4,Visual is enough to comprehend the mistake occured here.
+311,5d5ef4b0cb2426001974ad74,TextLint,Log Neg,Text,2,1,4,4,Text prob
+314,5c6693d3a3636800013e2a5b,Visual,Log Neg,NEGATIVE values wihtin the graph,2,1,3,4,Text is very easy at explaining the following error. I wouldn't have got that from visual
+315,56f340a6d70ab40006682a5e,Text,Log Neg,"There are negative values in the data, but a logarithmic scale is used.",2,3,1,4,The visual plus text makes the most sense but the visual on its own is also very helpful.
+321,5d150669b296b500187df8f9,TextLint,Log Neg,Negative values are in the scale,2,3,1,4,You need the arrow to show where the error is
+325,5dc38919dcc83f28ec7970a9,Visual,Log Neg,There was a negative value and the wrong scale was being used.,2,3,1,4,I would have never seen the negative value without the arrow.
+326,de,Text,Log Neg,Text and visual ,2,1,4,4,Because negative values in the text make this graph useless 
+331,5bf716d84cf1db0001aa80d8,Visual,Log Neg,The x axis scale is incorrect,2,3,1,4,I wouldn't necessarily understand text or visual on its own without context of what the graph is about
+332,5cb72e7625f45e0017c31287,Visual,Log Neg,negative values in the data,2,3,1,4,Visual + text
+333,5c613f2859ec1d0001fe6ea8,Visual,Log Neg,there are negative values in the data but a logarithmic scale iis being used,2,3,1,4,text+visual was the quickest to make me understand the issue
+343,5a49d6a06d85f80001c25bc4,TextLint,Log Neg,it's saying something about negative data values but this is not true -  the data values go to 0 - there are no negative values shown. I understand about the logarithmic scale but I don't see the relationship to the error,2,3,4,4,it erroneously says there are negative data values shown - 
+344,5d70ec2138ac7e00012f817b,TextLint,Log Neg,Visual,2,1,3,4,The text is easily understood and helps us find the error quickly
+350,5cc99062d918560016acf,TextLint,Log Neg,Text + Visual,2,3,1,4,"I was able to formulate and effective decison I believed, and thought this was useful"
+354,5d650ee54c485a00018c0747,Text,Log Neg,Wrong use of the data table,2,1,3,4,Better to get it
+356,5d2c9ed0a0580000174a22bc,TextLint,Log Neg,I have no idea,2,3,4,4,Completely confused by the text. I would have said doesn't start at 0
+361,5bd9eb1b1dcc41000132ae7e,Visual,Log Neg,There are negative values in the data but a logarithmic scale is being used,2,3,1,4,Visual and text show the error better than just describing it
+363,5cd99cab568b5b0001cc6330,None,Log Neg,"There are negative values in the data, but it’s being used a logarithmic scale",2,1,3,4,"There are negative values, but the graph is designed logically."
+364,5db396d5b449ad000cbfc38c,None,Log Neg,There are negative values in the data in which scale is being used,2,3,1,4,"Text + visual explains what the problem best, and visual tells where is wrong "
+368,5d02e8a7c087120001942ae7,Visual,Log Neg,There are negative values in the data but  logarithmic scale is being used.,2,1,3,4,Text explains this issue the best explaining it easily. Option 2 adds a little more detail whereas option 3 doesn't offer much.
+370,5c5f933f59ec1d0001fe64e7,TextLint,Log Neg,Negative values in the data,2,3,4,4,I am confused on this one I guess I don't quit understand what is going on in the image itself
+312,5c2d3ba4731cd10001b647d7,TextLint,Log Neg,doesn't denote negative values,3,1,2,4,the text speaks more to the error rather than the visual since the negative sign is missing
+313,5a68c6e431b87a0001c753d6,Visual,Log Neg,There were negative values in the data but the negatives were not recorded on the graph,3,2,1,4,i like that the visual clearly shows you the error and I like how the text explains this in detail so that you cannot mistake what the error is. (graph has shown up in this one - no graph/text/visual was showing up during the previous question)
+316,5d7192103785810001af02a6,Text,Log Neg,There are negative values in the data but logarithmic scale is being used.,3,2,1,4,I prefer being able to see what's wrong along with more information text wise.
+317,5c2677e6ec10810001431001,TextLint,Log Neg,Negative values in data while logarithmic scale is used.,3,2,1,4,"Most people don't know about logarithmic scales, so you would need the text and the visual to show the error."
+318,5db5d65a57839d000d955bae,Visual,Log Neg,There are negative values in a logarithmic scale ,3,2,1,4,Text was the clearest
+319,5cfeea9c4954fe00165895e0,Visual,Log Neg,There are negative values that should not exist due to the scale being used,3,2,1,4,Text + Visual gives the most information.  Just the visual requires the reader to guess what the specific issue is
+320,5781511fad1a6c00014658b7,Text,Log Neg,There are negative values in the data but logarithmic scales have been used.,3,2,1,4,The visual and text was the best for showing errors because it explained it and showed where it had occured. The text is more useful than the visual on its own because it explains the issue and you should be able to figure out where it is.
+322,5d7101657e53bd000148bdef,TextLint,Log Neg,There are negative values in the data but a logarithmic scale is being used ,3,1,2,4,Text is more useful due the complexity of the error 
+323,5d456961810cac00011bbe28,TextLint,Log Neg,There are negative values in the data but a logarithmic scale is being used,3,1,2,4,Text is essential for this graph
+324,5a6b4cd2d5d4cb0001d64740,Text,Log Neg,There are negative values in the data but a logarithmic scale is being used,3,2,1,4,"I think it's good to understand why an error is wrong, not just that an error is there. "
+327,5d2249547afc290017e5a8f9,Text,Log Neg,"there are negative values in the data , but a logarithmic scale is being used ",3,2,1,4,text and visual clearly explained the error 
+329,5dbc5143859674000ebbe28c,Visual,Log Neg,There are negative values in the data but a logarithmic scale is being used,3,2,1,4,I think text and visual is most helpful because the visual is loud and calls attention and the text explains. I think text helps more because this is a more complicated answer than the visual can portray
+334,5beeda51555093000152d513,Text,Log Neg,there are negative values in the data but with logarithmic scale,3,2,1,4,same as the previous one
+335,5d7929cc3dd8fd0001de3b98,TextLint,Log Neg,There are negative values used on a bar graph,3,1,2,4,The text is easy to understand even without the visual nod.
+336,5ce91c637d2bca00171a6ea1,TextLint,Log Neg,"Negative values in the data, but a logarithmic scale is being used",3,2,1,4,"Text is always more explanatory and visual helps to understand the ideia, but alone is not so claryfying as the text"
+337,5bfbf60d18430e000186a0b6,TextLint,Log Neg,"There are negative values in the data,but a logarithmic scale is being used",3,1,2,4,"Reading the text made it instantly clear what the problem was, where as the visual alone made me have think further!"
+338,5dbe9709c964f836acbe159c,TextLint,Log Neg,negative values in the data but a lograithic scale is used,3,2,1,4,text and visa makes it clear that text or visual on their own wouldn't
+339,5d90be048ff8b4001656a6d9,Text,Log Neg,The graph doesn't show the negative values correctly ,3,2,1,4,Textual explanations are clearer 
+340,5c9178d3803bff0001fef762,Text,Log Neg,Logarithmic scale used with negative data,3,2,1,4,Image looks like part of the graph at first and doesn't show what is wrong right away
+341,5dd0409d9ca8a312350a4118,Visual,Log Neg,There are negative values in data set but a logarithmic sclae is used. ,3,2,1,4,Visual and text needed to properly explain. 
+342,5c3e3f65e466860001c4b785,Text,Log Neg,There are negative values in the data.,3,2,1,4,Being Told and shown explains the issue more clearly
+345,5c1026b7e6eb4e0001b2863c,Text,Log Neg,"there are negative values in the data, but a logarithmic scale is being used",3,2,1,4,the visual helped to give a clearer explanation of the error 
+346,5daa322a47b9d20017a2e968,Visual,Log Neg,negative values with logarithmic scaale,3,2,1,4,both are necessary for this one It's a bit hard to understand
+347,5b222aff59f9620001c109cb,Visual,Log Neg,"there are negative values in the data, but a logarithmic scale is being used.",3,2,1,4,Best to explain with visual as well
+348,5d3f1bbf5edc3a001853870e,Text,Log Neg,there are negative values in the data but a logaritmic scale is being used,3,2,1,4,Visual + text explaination made me understand it better
+351,5d7f2045056b030015c3a60a,TextLint,Log Neg,negative ,3,2,1,4,text makes  everything cleaer  especially for somethingl iek that 
+352,5d77eb3007e8770001acdef8,Visual,Log Neg,"No negative values, despite the logarithmic scale used",3,1,2,4,Text explained the error efficiently
+353,5c7ead380ce9a10016fb5ebf,Visual,Log Neg,negative values in the data while a log scale is used.,3,1,2,4,I would not have picked that up without the text.
+355,5d9a74f72aae4c031a29af9b,Visual,Log Neg,Negative values in a logartithmic scale.,3,2,1,4,"Text is neccesary, especially for people who don't know how a logarithmic scale works, that's why I think visual only is the least helpful."
+357,5cf7cbe401a41f0017d1846f,TextLint,Log Neg,That there is an innappropriate scale being used.,3,2,1,4,I couldn't take any conclusions from the visual representations without the text.
+359,5d4ad488dfd8230018fd0b45,Text,Log Neg,that there's a negative value in the data,3,2,1,4,both together make it easier to understand
+360,5d349520c5edfe001af7c86b,Text,Log Neg,"there are negative values in the data, but a logarithmic scale being used ",3,2,1,4,the visual and text gave the most information 
+365,5dbf7e6f5b87704112c41466,Visual,Log Neg,Visual (the negative values could not exist on a graph that was using log scaling).,3,2,1,4,"It was important to highlight the specific scaling of this graph, along with the textual explanation."
+366,5c9d2bed010c73001706aeaa,Text,Log Neg,A logarithmic scale is being used with negative values.,3,1,2,4,"Sigh, again I say text is most impact, followed by text and visual, followed by visual. This is what I think."
+367,5dc1978fdbf8200fe9537083,TextLint,Log Neg,there are negative values in the data but logariithmic scale is being used,3,2,1,4,The text and visual are the most helpful with the visual being the least
+369,5d287be62a33c100167c93c6,Visual,Log Neg,There was negative values in the data but a logarithmic scale was being used,3,1,2,4,I wouldn't have known what was wrong without the text
+371,5daf65969975f80015854b5e,Visual,Log Neg,Negative values with a scale that only is used for positive values,3,2,1,4,With the visual + text it is very easy to understand the error. Only with the visual i think it's very difficult to understand this one.
+372,5c5e3853de929b0001a4d683,Text,Log Neg,"There are negative values in the data, but a logarithmic scale is being used",3,1,2,4,because the text helps to understand what is happening and with the visual you already fully understand
+328,5c97f7ed18a759001648027a,Visual,Log Neg,"I am still unsure, there are negative values in the data but the graph is using a logarithmic scale",4,3,2,4,I am still unsure of the explanation 
+330,5ce7f7ae2aa9590016af2ba7,Text,Log Neg,There are negative values in the data but a logarithmic scale is being used,4,3,1,4,"The text and visual provides the most information, one without the other makes the explanation confusing"

@@ -1,0 +1,63 @@
+Primary Key,Participant ID,Treatment Group,Error Type ,Error Explanation,Visual,Text,Text+Visual,None of the Above,Rank Explanation
+193,5c2677e6ec10810001431001,TextLint, Size,Length is negative,1,3,2,4,"For this one, it is quite obvious what is wrong if you highlight the error so the text isn't really needed."
+213,5bfbf60d18430e000186a0b6,TextLint, Size,There are negative values associated with the size encodings,1,2,3,4,The red box immediately draws attention to the issue
+214,5dbe9709c964f836acbe159c,TextLint, Size,negative values associated with size encodings,1,3,2,4,visual makes the error clear
+223,5b222aff59f9620001c109cb,Visual, Size,Negative values with sizes,1,3,2,4,for this visual could be better
+230,5d650ee54c485a00018c0747,Text, Size,Wrong use,1,2,3,4,It is not easy to understand
+187,5d5ef4b0cb2426001974ad74,TextLint, Size,The 0.5,2,1,3,4,Wrong infos
+191,56f340a6d70ab40006682a5e,Text, Size,There are negative values associated with the smaller sizes.,2,3,1,4,"The visual plus text makes the most sense, and the visual makes it relatively clear on its own."
+197,5d150669b296b500187df8f9,TextLint, Size,There are negative values in there. ,2,3,1,4,I find it easier for the error to be shown using visual and text so i can physically see the error
+201,5dc38919dcc83f28ec7970a9,Visual, Size,There are no negative values.,2,3,1,4,With just the text I had no idea where to look.
+202,de,Text, Size,Text ,2,1,3,4,Negative values make it confusing too read 
+206,5ce7f7ae2aa9590016af2ba7,Text, Size,There are negatives values associated with the size encodings,2,3,1,4,the text and visual provides the most information but #2 is the visual alone as that is less confusing to a layman
+207,5bf716d84cf1db0001aa80d8,Visual, Size,Text and visual ,2,3,1,4,It is useful to have as much information given as possible. I also wouldn't necessarily understand just text
+208,5cb72e7625f45e0017c31287,Visual, Size,negative values associated,2,3,1,4,visual & text help me to see a error
+219,5a49d6a06d85f80001c25bc4,TextLint, Size,the values of length include negative values,2,3,1,4,"I didn't know that wavelength couldn't be negative, so I wouldn't jump to the fact that this is an error. Also, to me, it's much more weird that the sizes of the balls aren't proportional to their values. e.g. 6 = 3 x 2 but the 6 ball isn't 3 times the size of the 2 ball"
+222,5daa322a47b9d20017a2e968,Visual, Size,Negative values associated with side coding,2,3,1,4,By visual you can see the error and by text you can understand the error.
+226,5cc99062d918560016acf,TextLint, Size,the text,2,1,3,4,it seemed obvious to me
+229,5c7ead380ce9a10016fb5ebf,Visual, Size,The -0.5 should have a larger circle than the -2.,2,3,1,4,It is easily spotted by looking the legend.
+231,5d9a74f72aae4c031a29af9b,Visual, Size,There are negative values in size encondings.,2,3,1,4,Pointing out the negative values is clear enough but the text makes it even clearer.
+239,5cd99cab568b5b0001cc6330,None, Size,There are negative values on the graph,2,3,1,4,Whit text and visual it’s easy to see that there are negative values
+242,5c9d2bed010c73001706aeaa,Text, Size,Negative values ,2,3,1,4,"Look at the rankings: Visual and text is most impact, visual alone is number 2 and text alone is least impact."
+247,5daf65969975f80015854b5e,Visual, Size,There are negative values associated with size encodings,2,3,1,4,you can immediately see the error with the visual + text. If used only the text the person may not identify as soon as there is an error there
+188,5c2d3ba4731cd10001b647d7,TextLint, Size,negative values not represented on the graph,3,2,1,4,the text calls out the missing information or error better than the visual as the negative values aren't represented in the graph
+189,5a68c6e431b87a0001c753d6,Visual, Size,there are negative values again that are not able to be shown on the graph,3,2,1,4,"again, i like to be shown the error as well as read a detailed explanation as I don't use graphs often"
+190,5c6693d3a3636800013e2a5b,Visual, Size,Negative values associated.,3,2,1,4,The combination of both helps to clearly explain and direct to the error
+192,5d7192103785810001af02a6,Text, Size,There are negative values associated with size encodings,3,2,1,4,I think having more information about the error makes it easier to see the mistake.
+194,5db5d65a57839d000d955bae,Visual, Size,There are negative values associated with size.,3,2,1,4,The issue is something that can't really be pointed out without text
+195,5cfeea9c4954fe00165895e0,Visual, Size,There should not be data with negative sizes,3,2,1,4,Text + Visual gives the most information.  Just the visual requires the reader to guess what the specific issue is
+196,5781511fad1a6c00014658b7,Text, Size,there are negative values associated with size encodings,3,2,1,4,The visual on its own doesn't really explain much
+198,5d7101657e53bd000148bdef,TextLint, Size,there are negative values associated with size encodings,3,2,1,4,text and visual combines the best of both methods 
+199,5d456961810cac00011bbe28,TextLint, Size,There are negative values associated with size encodings,3,2,1,4,Olny a combination of visual+text make the user feel comfortable with the info provided.
+200,5a6b4cd2d5d4cb0001d64740,Text, Size,There are negative values associated with size encodings. ,3,2,1,4,"I think it's good to understand why an error is wrong, not just that an error is there. "
+203,5d2249547afc290017e5a8f9,Text, Size,there are negative values associated with size encoding,3,2,1,4,visual was too confusing as it could be regarding anything
+204,5c97f7ed18a759001648027a,Visual, Size,There are negative values within the size encodings,3,2,1,4,"It was much easier to see when having both the visual and text, the visual did not tell me much for me personally"
+205,5dbc5143859674000ebbe28c,Visual, Size,There are negative values associated with size encodings,3,2,1,4,I think text and visual is most helpful because the visual is loud and calls attention and the text explains. I think text helps more because this is a more complicated message than can be portrayed visually.
+209,5c613f2859ec1d0001fe6ea8,Visual, Size,There are negative values associated with size encodings,3,2,1,4,Text and visual helped me quickly verify the mistake 
+210,5beeda51555093000152d513,Text, Size,negative values,3,2,1,4,same as the previous one
+211,5d7929cc3dd8fd0001de3b98,TextLint, Size,There are negative values on the keys.,3,2,1,4,It's easier to understand with both the text and the image.
+212,5ce91c637d2bca00171a6ea1,TextLint, Size,Negative values associated with size encodings,3,2,1,4,"In this case, text explained better the error and the image only helped the text"
+215,5d90be048ff8b4001656a6d9,Text, Size,There are negative values associated with size encodings,3,2,1,4,Textual explanations are clearer 
+216,5c9178d3803bff0001fef762,Text, Size,Negative values associated with size encoding,3,2,1,4,Circling negative values wasn't immediately obvious what was wrong
+217,5dd0409d9ca8a312350a4118,Visual, Size,Negative values should not have a proportional circle. ,3,2,1,4,Text and visual clearly state the problem and highlight where you can find the problem yourself. 
+218,5c3e3f65e466860001c4b785,Text, Size,The values have gone into negative ,3,2,1,4,Text and visual help pinpoint the fault 
+220,5d70ec2138ac7e00012f817b,TextLint, Size,Text,3,2,1,4,Both Visual and Text help us understand where the error is located at
+221,5c1026b7e6eb4e0001b2863c,Text, Size,there are negatuve values associated with size encodings,3,2,1,4,"the visual helped to point towards the error, but the text helped to explain the error"
+224,5d3f1bbf5edc3a001853870e,Text, Size,there are negative values associated with size encodings,3,2,1,4,Both text and visual are helpful
+225,5c665e1948985d0001f09675,Text, Size,negative values associated with size encodings,3,2,1,4,both are necessary to explain especially visual as it points out specfic area on the graph
+227,5d7f2045056b030015c3a60a,TextLint, Size,legend,3,2,1,4,the visual and the text help to highlight the actual section and a texual description.
+228,5d77eb3007e8770001acdef8,Visual, Size,Negative values are associated with size encodings,3,1,2,4,Text explained what was wrong with it
+232,5d2c9ed0a0580000174a22bc,TextLint, Size,Negative sizes,3,1,2,4,"Again, looked at the bottom first rather than the side"
+233,5cf7cbe401a41f0017d1846f,TextLint, Size,Negative values associated with size encodings.,3,1,2,4,Visual representation is too ambiguous in this case. 
+234,5c66cc9246bfc200019044b8,TextLint, Size,Negative values associated with size encodings,3,2,1,4,"Text points out the error and the visual show us, Together this is the best method."
+235,5d4ad488dfd8230018fd0b45,Text, Size,negative values with the size encoding,3,2,1,4,best both together
+236,5d349520c5edfe001af7c86b,Text, Size,there are negative values associated with size encodings,3,2,1,4,"the text and visual gave the most information, and it goes down from there "
+237,5bd9eb1b1dcc41000132ae7e,Visual, Size,There are negative values associated with size encodings,3,2,1,4,Visual and text explain the problem well
+238,5cab8cadd0f9c90016b178b0,TextLint, Size,"""There are negative values associated with size encodings""",3,2,1,4,For this graph visual and text together made me understand better.
+240,5db396d5b449ad000cbfc38c,None, Size,There are negative values on length,3,2,1,4,"Visual + text makes it very clear which part is wrong,  while text also conveys the message well though time is needed to search on the graph. Visual only is kind of confusing if the person doesn't realise what happen."
+241,5dbf7e6f5b87704112c41466,Visual, Size,Visual (There cannot be negative values).,3,2,1,4,"This graph was difficult to decipher, and the visual + text helps highlight the issue in the clearest possible way."
+243,5dc1978fdbf8200fe9537083,TextLint, Size,There are negative values assosiated with size encoding,3,2,1,4,The visual and text are helpful but just the visual on it's own makes nothing clear
+244,5d02e8a7c087120001942ae7,Visual, Size,There are negative values associated with size encoding,3,2,1,4,Option 1 give a complete explanation. Option 2 in this instance helps more than visual on its own which gives no real indication of the error.
+245,5d287be62a33c100167c93c6,Visual, Size,Negative values associated with size encodings,3,2,1,4,I can't easily understand just based on the graphics. Having both makes it easier.
+246,5c5f933f59ec1d0001fe64e7,TextLint, Size,Negative value with size encodings,3,2,1,4,I choose visual and text because you can see whats going on in the picture and piece it together
+248,5c5e3853de929b0001a4d683,Text, Size,there are negative values  associated with the size encodings,3,1,2,4,because the text helps to understand what is happening and with the visual you already fully understand

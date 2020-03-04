@@ -1,0 +1,62 @@
+Primary Key,Participant ID,Treatment Group,Error Type ,Error Explanation,Visual,Text,Text+Visual,None of the Above,Rank Explanation
+394,5cb72e7625f45e0017c31287,Visual,Range,Visual,1,2,3,4,Visual is most helpful graph
+418,5d2c9ed0a0580000174a22bc,TextLint,Range,data goes off the chart,1,2,3,4,"Easy to see, search for text"
+375,5a68c6e431b87a0001c753d6,Visual,Range,i can't see a graph?,2,3,4,4,I don't understand graphs too well as it is so found this confusing
+377,56f340a6d70ab40006682a5e,Text,Range,The graph isn't tall enough to show the data.,2,1,3,4,"The text and visual is the best, followed by visual and then simple text because of how intuitive they are."
+382,5781511fad1a6c00014658b7,Text,Range,The data point was higher than what the Y axis could display so it was off the graph.,2,1,3,4,Visual is easier to see than text because it points out the blunder immediately.
+384,5d7101657e53bd000148bdef,TextLint,Range,The data is not included in the axes range ,2,1,3,4,text and visual combines the best of both methods but visual shows a clear method of depicturing the error   
+390,5c97f7ed18a759001648027a,Visual,Range,"That the data shown on the graph is out of range of the axis, the information can not be read",2,1,3,4,"It was much easier for me to understand after seeing the text too, as the visual did not give me the full picture of the problem"
+391,5dbc5143859674000ebbe28c,Visual,Range,The data is not included in the axes range,2,1,3,4,I think text and visual is most helpful because the visual is loud and calls attention and the text explains. I think visual helps more because it jumps out more than the text.
+393,5bf716d84cf1db0001aa80d8,Visual,Range,"There has been an error on this page, there is no graph above",2,3,4,4,"There has been an error on this page, there is no graph above"
+397,5d7929cc3dd8fd0001de3b98,TextLint,Range,The axis isn't long enough,2,1,3,4,It's nice to have a visual nod as well as text to explain the error.
+398,5ce91c637d2bca00171a6ea1,TextLint,Range,No graph appeared in this section,2,3,4,4,No graph appeared in this section
+405,5a49d6a06d85f80001c25bc4,TextLint,Range,"it says the data is not included in the axes range, but I don't really understand it",2,3,4,4,"I didn't understand this error at all - the graph doesn't make sense to me, but then neither does the error explanation"
+408,5daa322a47b9d20017a2e968,Visual,Range,There is no graph available above.,2,3,4,4,I don't what is the problem may It's the technical problem because I can't see any graph above.
+414,5d77eb3007e8770001acdef8,Visual,Range,Data is off the axes,2,3,4,4,I just know why it's got an error.
+416,5d650ee54c485a00018c0747,Text,Range,Incomplete info,2,1,3,4,With the text and visual info you can have a better idea about what is happening
+417,5d9a74f72aae4c031a29af9b,Visual,Range,The data doesn't fit in the range of the axes.,2,1,3,4,Text + visual let's you know the mistake and a clear indication of where it is.
+421,5d4ad488dfd8230018fd0b45,Text,Range,that there was a lack in data above the 3.0 mark,2,1,3,4,Easier to understand with the text and visual together
+422,5d349520c5edfe001af7c86b,Text,Range,the data is not included in the axes range ,2,1,3,4,the visual and text gave the most information 
+431,5d287be62a33c100167c93c6,Visual,Range,The data is not included in the range of the axes,2,1,3,4,I was able to see visually the issue and the text helped me better understnad
+433,5daf65969975f80015854b5e,Visual,Range,Missing data in axes range,2,1,3,4,With the visual + text it is very easy to understand the error.
+376,5c6693d3a3636800013e2a5b,Visual,Range,Data is not illustrated in graph,3,1,2,4,The combination of both helps to clearly explain and direct to the error
+378,5d7192103785810001af02a6,Text,Range,The data is not included in the axes range.,3,1,2,4,I think having more information about the error makes it easier to see the mistake.
+379,5c2677e6ec10810001431001,TextLint,Range,Some data is not plotted on the graph,3,1,2,4,The visual by itself can be quite confusing as to what it means.
+380,5db5d65a57839d000d955bae,Visual,Range,Axis range is too small,3,1,2,4,Visual doesn't show that the axis needs to be bigger.
+381,5cfeea9c4954fe00165895e0,Visual,Range,The data goes off the graph,3,1,2,4,Text + Visual gives the most information.  Just the visual requires the reader to guess what the specific issue is
+383,5d150669b296b500187df8f9,TextLint,Range,The data is off the chart and not in the axis range,3,1,2,4,You definitely need text here to demonstrate where the problem is.
+386,5a6b4cd2d5d4cb0001d64740,Text,Range,The data is not included in the axes range,3,1,2,4,"I think it's good to understand why an error is wrong, not just that an error is there. "
+387,5dc38919dcc83f28ec7970a9,Visual,Range,The chart doesn't show where the data is. ,3,1,2,4,"The text helps me see what's going on, and the visual confirms it."
+389,5d2249547afc290017e5a8f9,Text,Range,the data was not included in the axes range,3,1,2,4,text shows the error and the visual corresponds to the error showing where the error is
+392,5ce7f7ae2aa9590016af2ba7,Text,Range,The data is not included in the axes range,3,1,2,4,the text and visual provides the most information
+395,5c613f2859ec1d0001fe6ea8,Visual,Range,The data is not included in the axes range,3,1,2,4,"Visual supported by text explains why we choose that error, only text is good but can be confusing, visual is also good but can be more confusing than text only"
+396,5beeda51555093000152d513,Text,Range,there is no data in the axes ranges,3,1,2,4,same as the previous one
+399,5bfbf60d18430e000186a0b6,TextLint,Range,The data is not included in the axes range,3,1,2,4,"This one needed both text and a visual marker to make it clear,as to the problem"
+400,5dbe9709c964f836acbe159c,TextLint,Range,theres data not incuded in the axes range,3,1,2,4,the explantion helps explain the visual cue without the text its not as clear
+401,5d90be048ff8b4001656a6d9,Text,Range,The data is not included in the axes range,3,1,2,4,Text explanations are much clearer without them it's a game of Pictionary
+402,5c9178d3803bff0001fef762,Text,Range,Data not included in axes range,3,1,2,4,Image looks like part of the graph at first
+403,5dd0409d9ca8a312350a4118,Visual,Range,Y axis did not go high enough for data range. ,3,1,2,4,Text plus visual best explains the problem.
+406,5d70ec2138ac7e00012f817b,TextLint,Range,Visual,3,2,1,4,"The text itself is excellent to explain the problem with the graph. The Visual help is also good, however is not very intuitive."
+407,5c1026b7e6eb4e0001b2863c,Text,Range,the data is not included in the axis range,3,2,1,4,the visual did not relly help me as i couldn't spot the error without the text
+409,5b222aff59f9620001c109cb,Visual,Range,The line is not inside the chart,3,2,1,4,Text explains it
+410,5d3f1bbf5edc3a001853870e,Text,Range,the data is not included in the axes range,3,2,1,4,When i read the explaination I better understood it.
+411,5c665e1948985d0001f09675,Text,Range,the data is not included in the axes range,3,1,2,4,both text and visual are necessary as the arrow shows in which direction data is not added and text explains it
+413,5d7f2045056b030015c3a60a,TextLint,Range,no graph,3,1,2,4,text makes  everything cleaer  especially for somethingl iek that 
+415,5c7ead380ce9a10016fb5ebf,Visual,Range,That the steps on were inconsistent with one y axis and the other. One incremented faster than the other.,3,1,2,4,It helps to view the text when looking at the graphs.
+419,5cf7cbe401a41f0017d1846f,TextLint,Range,Need bigger axes range to represent all the data.,3,1,2,4,The visual representation on its own can be ambiguous.
+420,5c66cc9246bfc200019044b8,TextLint,Range,The axes don't have data.,3,1,2,4,"Again, text + visual method are the best and most understandable. Second is text because alteast it points out the error."
+423,5bd9eb1b1dcc41000132ae7e,Visual,Range,The data is not included in the axis range,3,1,2,4,Text and visual help see the problem
+424,5cab8cadd0f9c90016b178b0,TextLint,Range,There is no graph shown above.,3,1,2,4,"Visual helps to comprehend mistakes faster when they are used with text. However, only visuals might be confusing by itself, so I prefer text in second place."
+425,5cd99cab568b5b0001cc6330,None,Range,That some values are not included inside the graph,3,1,2,4,You can easily see that in the graph there are some values outside the graph
+427,5dbf7e6f5b87704112c41466,Visual,Range,There was missing data within the range of the axis.,3,1,2,4,The error was most easily expressed via text and the visualization on the Y-axis.
+428,5c9d2bed010c73001706aeaa,Text,Range,Data is not included in the axes range.,3,2,1,4,"Once again this is what I think: Text is most impact, followed by text and visual, followed by visual. "
+429,5dc1978fdbf8200fe9537083,TextLint,Range,The data is not included in the axes range,3,1,2,4,The text and visual explains and shows the problem and the visual is the least helpful
+430,5d02e8a7c087120001942ae7,Visual,Range,The data is not included in the axes range,3,1,2,4,Option 1 gives more information explaining the issue. Option 2 helps more than option 3 which does not indicate much.
+432,5c5f933f59ec1d0001fe64e7,TextLint,Range,Data was not included,3,1,2,4,The text was really helpful this time because it told the error that has happened in the image above
+434,5c5e3853de929b0001a4d683,Text,Range,the data is not included in the axes range,3,2,1,4,because the text helps to understand what is happening and with the visual you already fully understand
+404,5c3e3f65e466860001c4b785,Text,Range,Not sure,4,2,3,4,Im unsure about the error or it explaining the error to me.
+373,5d5ef4b0cb2426001974ad74,TextLint,Range,Wrong values,,,,4,Wrong value
+374,5c2d3ba4731cd10001b647d7,TextLint,Range,data in range is missing,,,,4,the visual is clear that there is data missing
+385,5d456961810cac00011bbe28,TextLint,Range,"there is a missing graph in this question, please fix.",,,,4,"there is a missing graph in this question, please fix."
+412,5cc99062d918560016acf,TextLint,Range,Visual,,,,4,Power scale should have had a bigger scale
+426,5db396d5b449ad000cbfc38c,None,Range,(sorry but the graph doesn't load for me in this page),,,,4,(sorry but the graph doesn't load for me in this page)

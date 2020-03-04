@@ -1,0 +1,63 @@
+Primary Key,Participant ID,Treatment Group,Error Type ,Error Explanation,Visual,Text,Text+Visual,None of the Above,Rank Explanation
+261,5d456961810cac00011bbe28,TextLint,Rate,the two y axes change at different rates,1,2,3,4,visual is faster than text to understand concept.
+264,de,Text,Rate,Text and visual ,1,3,2,4,The axis changing a different rates is confusing 
+270,5cb72e7625f45e0017c31287,Visual,Rate,axes change at different rates,1,3,2,4,visual is most useful in this graph
+303,5dbf7e6f5b87704112c41466,Visual,Rate,Visual (The two Y-axes could not co-exist on the same graph with differing units).,1,3,2,4,The visual + text method really helps highlight the issue with having two differing rates on double y-axes.
+258,5781511fad1a6c00014658b7,Text,Rate,The two y-axes change at different rates,2,3,1,4,This is an error that may be less obvious so I think the visual cues are much more helpful than text on its own.
+266,5c97f7ed18a759001648027a,Visual,Rate,The axis change at different rates,2,3,4,4,I am still unsure 
+269,5bf716d84cf1db0001aa80d8,Visual,Rate,There is a problem with the rating of the two axes,2,3,1,4,I wouldn't necessarily understand text or visual on its own without context of what the graph is about
+271,5c613f2859ec1d0001fe6ea8,Visual,Rate,the  two y-axes change at different rates,2,3,1,4,visual + text was the quicker to make me understand
+275,5bfbf60d18430e000186a0b6,TextLint,Rate,The two axes change at different rates,2,1,3,4,Only the text helped this one. The visual aids are unclear
+284,5daa322a47b9d20017a2e968,Visual,Rate,two y axis changes at different rate,2,3,1,4,It's bit hard to tell by only seeing the text and visual only so both are important in this one
+306,5d02e8a7c087120001942ae7,Visual,Rate,The two-y axes change at different rates.,2,1,3,4,Option 1 is more ideal and others i would rank all last if i could. Option one give the most information that is required.
+308,5c5f933f59ec1d0001fe64e7,TextLint,Rate,The axes change at different rates,2,3,1,4,The visual and text help seeing both at the same time because you can see the change in both.
+249,5d5ef4b0cb2426001974ad74,TextLint,Rate,Wrong value,3,1,2,4,No prob
+250,5c2d3ba4731cd10001b647d7,TextLint,Rate,axes change at different rates,3,2,1,4,the text explains the error clearly rather than a visual
+251,5a68c6e431b87a0001c753d6,Visual,Rate,the numbers along each side change at different rates - data will be innacurate,3,2,1,4,as this error was more complicated it is definitely more beneficial to be shown the error as well as read an explanation of it
+252,5c6693d3a3636800013e2a5b,Visual,Rate,Axis change at different rates ,3,1,2,4,"Again, I don;t feel that the visual is supporting error identification"
+253,56f340a6d70ab40006682a5e,Text,Rate,The two axes change at different rates.,3,1,2,4,The visual didn't make much sense to me. I don't totally understand the problem either.
+255,5c2677e6ec10810001431001,TextLint,Rate,The 2 y axis have a different rate of change,3,2,1,4,The visual is very confusing as to what it is trying to show.
+256,5db5d65a57839d000d955bae,Visual,Rate,The axises have different rates,3,1,2,4,The visual made it clear there was an error with the axises but not what the error was
+257,5cfeea9c4954fe00165895e0,Visual,Rate,The axes change at different rates,3,2,1,4,Text + Visual gives the most information.  Just the visual requires the reader to guess what the specific issue is
+260,5d7101657e53bd000148bdef,TextLint,Rate,The axes change at different rates ,3,2,1,4,text and visual combines the best of both methods but text better outlines the detail of the error 
+262,5a6b4cd2d5d4cb0001d64740,Text,Rate,The axes change at different rates,3,2,1,4,"I think it's good to understand why an error is wrong, not just that an error is there. "
+263,5dc38919dcc83f28ec7970a9,Visual,Rate,There are two different y axes at different rates.,3,4,2,4,I have no idea what I'm looking at.
+265,5d2249547afc290017e5a8f9,Text,Rate,the y-axes change at different rates ,3,1,2,4,the text explained how it was on about both y axis unlike text and vixual could have been misinterprted as the y an x axid. also the visual was confusing as it was messy and interrupted the results
+267,5dbc5143859674000ebbe28c,Visual,Rate,The two y-axes change at different rates,3,1,2,4,"I think the text on the just text one was most informative, and the visual doesn't jump out as much."
+272,5beeda51555093000152d513,Text,Rate,axis change at different rates,3,2,1,4,same as the previous one
+273,5d7929cc3dd8fd0001de3b98,TextLint,Rate,The axes don't change at the same rate.,3,1,2,4,It's easy to locate the two axes and see why they are wrong.
+274,5ce91c637d2bca00171a6ea1,TextLint,Rate,Two y-axes change at different rates,3,1,2,4,Visual may not be claryfying about the error. Visual was only understandable with the text
+276,5dbe9709c964f836acbe159c,TextLint,Rate,the 2 y axis change at different rates,3,1,2,4,text makes the error clear. visual isnt tha obvious 
+277,5d90be048ff8b4001656a6d9,Text,Rate,The two y axes change at different rates. ,3,1,2,4,"The text explanations clearly point out the error, but the visual one looks like a reading on the graph. "
+278,5c9178d3803bff0001fef762,Text,Rate,The axes change at different rates,3,2,1,4,Image looks like part of the graph at first
+279,5dd0409d9ca8a312350a4118,Visual,Rate,The y axes go up at different rates. ,3,1,2,4,"Text needed, visual just highlights where the problem is but not what the problem is. "
+280,5c3e3f65e466860001c4b785,Text,Rate,the y axis are at different rates,3,2,1,4,being told and shown gives the best directions.
+283,5c1026b7e6eb4e0001b2863c,Text,Rate,the axes change at different rates,3,2,1,4,"the visual does not make it obvious that the error is that the axes change at different rates, it just draws attention to them, whereas the text clearly explains it"
+285,5b222aff59f9620001c109cb,Visual,Rate,The axes change at different rates,3,1,2,4,Text explains it so clearly
+286,5d3f1bbf5edc3a001853870e,Text,Rate,the two y-axes change at different rates,3,1,2,4,I couldn't understand this visual explaination without seeing the text
+287,5c665e1948985d0001f09675,Text,Rate,the axes change at different rates,3,1,2,4,visual is kind of confusing on the graph so text is necessary
+288,5cc99062d918560016acf,TextLint,Rate,Text,3,1,2,4,The text explained more errors
+289,5d7f2045056b030015c3a60a,TextLint,Rate,different rates,3,1,2,4,text makes  everything cleaer  especially for somethingl iek that 
+290,5d77eb3007e8770001acdef8,Visual,Rate,Axes change at different rates,3,1,2,4,Text quickly explained the error and I understood it
+291,5c7ead380ce9a10016fb5ebf,Visual,Rate,The two y-axes change at different rates.,3,2,1,4,It is much easier to see it with the help of text. Just looking at the image can make it very hard to catch errors.
+292,5d650ee54c485a00018c0747,Text,Rate,No visual info,3,2,1,4,There was no visual info
+293,5d9a74f72aae4c031a29af9b,Visual,Rate,Two y-axes that change at a different rate.,3,2,1,4,The visual cue gets lost in the graph so text is really necessary.
+294,5d2c9ed0a0580000174a22bc,TextLint,Rate,Y axis is different on each side,3,1,2,4,"Pretty crappy visual, didn't even see it until I was ranking"
+295,5cf7cbe401a41f0017d1846f,TextLint,Rate,The two y-axes change at different rates.,3,2,1,4,The visual representation is not informative enough to be presented on its own. The tex one is much clearer and makes sense on its own.
+296,5c66cc9246bfc200019044b8,TextLint,Rate,The two Y axes chage at tdifferent rates.,3,1,2,4,"This time text was better because it was more clearer, but after that i immidetaly looked at the visual + text option so thats why i rank that second."
+297,5d4ad488dfd8230018fd0b45,Text,Rate,it changes at different rates,3,2,1,4,clearer both together
+298,5d349520c5edfe001af7c86b,Text,Rate,the axes change at different rates ,3,2,1,4,the visual and text gave the most information 
+299,5bd9eb1b1dcc41000132ae7e,Visual,Rate,The axes change at different rates,3,2,1,4,The visual and text help show the error
+300,5cab8cadd0f9c90016b178b0,TextLint,Rate,Units are different even though one graph is being used.,3,1,2,4,Text gives better understanding of the error.
+301,5cd99cab568b5b0001cc6330,None,Rate,The axes change change at different rates,3,2,1,4,With visual and text you can see at best the error
+302,5db396d5b449ad000cbfc38c,None,Rate,The Y axes are at different scale,3,1,2,4,"Text is the most to the point, while the red line visuals are making it a little bit confusing"
+304,5c9d2bed010c73001706aeaa,Text,Rate,The axes change at different rates,3,1,2,4,"Text is most impact, followed by visual and text, followed by visual alone. That is what I think."
+305,5dc1978fdbf8200fe9537083,TextLint,Rate,The axes chang at different rates,3,2,1,4,The visual and text are most helpful
+307,5d287be62a33c100167c93c6,Visual,Rate,The two y-axes change at different rates,3,1,2,4,The words explained what was wrong
+309,5daf65969975f80015854b5e,Visual,Rate,The axes change at different rates.,3,2,1,4,Easy to understand with all the methods.
+254,5d7192103785810001af02a6,Text,Rate,The axes change at different rates.,4,1,2,4,The visual does nothing in my opinion. 
+259,5d150669b296b500187df8f9,TextLint,Rate,The y axises change at different rates,4,1,3,4,I don't find the visual very helpful at all it just has scribbly lines. It is much easier to understand it in text
+268,5ce7f7ae2aa9590016af2ba7,Text,Rate,The axes change at different rates,4,1,3,4,The visual looks confusing as it is unclear whether it is part of the original graph so the text alone is most useful
+310,5c5e3853de929b0001a4d683,Text,Rate,the axes change at different rates,4,1,3,4,Only with the text helps to understand what is happening
+281,5a49d6a06d85f80001c25bc4,TextLint,Rate,the 2 y axes are changing at different rates,,,,4,"I couldn't tell just by scribbling red lines randomly on the graph that it's supposed to be some kind of error. Also, I didn't realize this is even an issue to have a different change rates"
+282,5d70ec2138ac7e00012f817b,TextLint,Rate,Visual,,,,4,In this case i think that visual method was the better way of showing the error because we can clearly see where it is

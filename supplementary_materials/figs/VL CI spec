@@ -1,0 +1,85 @@
+{
+  "$schema": "https://vega.github.io/schema/vega-lite/v4.json",
+  "data": {
+    "values": [
+      {
+        "lint": "Text",
+        "condition": "prior",
+        "center": 0.1315789474,
+        "lower": 0.0967741935483871,
+        "upper": 0.17008797653958943
+      },
+      {
+        "lint": "Text",
+        "condition": "post",
+        "center": 0.3362573099,
+        "lower": 0.2873900293255132,
+        "upper": 0.39002932551319647
+      },
+      {
+        "lint": "Visual",
+        "condition": "prior",
+        "center": 0.1084656085,
+        "lower": 0.08222811671087533,
+        "upper": 0.14588859416445624
+      },
+      {
+        "lint": "Visual",
+        "condition": "post",
+        "center": 0.1507936508,
+        "lower": 0.11936339522546419,
+        "upper": 0.1909814323607427
+      },
+      {
+        "lint": "Text+Visual",
+        "condition": "prior",
+        "center": 0.08611111111,
+        "lower": 0.06111111111111111,
+        "upper": 0.11944444444444445
+      },
+      {
+        "lint": "Text+Visual",
+        "condition": "post",
+        "center": 0.275,
+        "lower": 0.23055555555555557,
+        "upper": 0.325
+      }
+    ]
+  },
+  "facet": {
+    "row": {"field": "lint", "type": "nominal", "sort": ["Text", "Visual", "Text+Visual"], "header": {"labelFontStyle": "bold"}, "axis": {"title": null}}
+  },
+    "spec": {
+      "layer": [
+    {
+      "mark": "errorbar",
+      "encoding": {
+        "x": {
+          "field": "upper",
+          "type": "quantitative",
+          "scale": {"zero": false},
+          "axis": {"format": "%", "title": "% correct"}
+        },
+        "x2": {"field": "lower"},
+        "y": {"field": "condition", "type": "ordinal", "axis": {"title": "lint"}, "sort": ["prior", "post"]},
+        "color": {"field": "lint", "type": "nominal", "legend": null}
+      }
+    },
+    {
+      "mark": {
+        "type": "point",
+        "filled": true,
+        "color": "black"
+      },
+      "encoding": {
+        "x": {
+          "field": "center",
+          "type": "quantitative"
+        },
+        "y": {"field": "condition", "type": "ordinal", "sort": ["prior", "post"], "axis": {"title": null}},
+        "color": {"field": "lint", "type": "nominal", "legend": null}
+      }
+    }
+  ]
+  }
+}

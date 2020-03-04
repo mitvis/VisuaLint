@@ -1,0 +1,63 @@
+Primary Key,Participant ID,Treatment Group,Error Type ,Error Explanation,Visual,Text,Text+Visual,None of the Above,Rank Explanation
+16,de,Text,Color,Text and visual ,1,3,2,4,The dots are too merged together 
+18,5c97f7ed18a759001648027a,Visual,Color,that the 2 colours of 2 of the origins on the graph are too similar,1,3,2,4,"Seeing just the legend highlighted points out the issue straight away, having the text there too makes it even clearer."
+27,5bfbf60d18430e000186a0b6,TextLint,Color,The colours are too similar,1,3,2,4,The red box was the only necessary aid to enable me to see the issue
+43,5c7ead380ce9a10016fb5ebf,Visual,Color,Colors are two similar.,1,3,2,4,Very clustered and cannot tell the difference.
+44,5d650ee54c485a00018c0747,Text,Color,Too similar colors,1,3,2,4,It is really helpful to see and read about the problem
+46,5d2c9ed0a0580000174a22bc,TextLint,Color,Too similar colors,1,3,2,4,"Easy to see, have to look for text"
+59,5d287be62a33c100167c93c6,Visual,Color,the colors are too similar,1,3,2,4,I was able to understand simply with just visual
+60,5c5f933f59ec1d0001fe64e7,TextLint,Color,The colors are way too similar to one another,1,2,3,4,The colors arenot different from each other and you can look at the visual to see that above that why I chose visual first 
+2,5c2d3ba4731cd10001b647d7,TextLint,Color,colors are too similiar,2,1,3,4,the colors are too similiar so the visual makes the best use of how to determine the error
+10,5781511fad1a6c00014658b7,Text,Color,The colours are too similar,2,1,3,4,The colours are too similar is enough for someone to gauge what it's referring to.
+14,5a6b4cd2d5d4cb0001d64740,Text,Color,The colors are too similar,2,3,1,4,"I think it's good to understand why an error is wrong, not just that an error is there. "
+15,5dc38919dcc83f28ec7970a9,Visual,Color,The legend and the colors are too similar,2,1,3,4,The text is the easiest to read. 
+19,5dbc5143859674000ebbe28c,Visual,Color,The colors are too similar,2,3,1,4,I think text and visual is most helpful because the visual is loud and calls attention and the text explains. I think visual helps more because it jumps out more than the text.
+25,5d7929cc3dd8fd0001de3b98,TextLint,Color,The colours for the keys are too similar.,2,3,1,4,It's nice to have the legend pointed out to you.
+33,5a49d6a06d85f80001c25bc4,TextLint,Color,the colors of two of the countries are too similar,2,3,1,4,"with no text, you don't know what's going on - and the text needs to be next to the actual error point - like next to the actual box!"
+40,5cc99062d918560016acf,TextLint,Color,Text + Visual,2,3,1,4,The text and visual explained the error to the fullest but the visual was enough to show the error
+42,5d77eb3007e8770001acdef8,Visual,Color,Colours too similar,2,3,4,1,I knew immediately why
+52,5cab8cadd0f9c90016b178b0,TextLint,Color,the colors are too similar.,2,1,3,4,Error is too obvious. It does not matter text or visual is given as first place.
+55,5dbf7e6f5b87704112c41466,Visual,Color,Visual,2,3,1,4,The text + visual option has much more information that clearly explains the issue.
+3,5a68c6e431b87a0001c753d6,Visual,Color,colours are too similar,3,2,1,4,good to see and be told
+4,5c6693d3a3636800013e2a5b,Visual,Color,The colours are too similar ,3,1,2,4,Text is clear but visual does not clearly show the error
+5,56f340a6d70ab40006682a5e,Text,Color,The colors are too similar.,3,1,2,4,The visual isn't clear enough about the problem as the text is.
+6,5d7192103785810001af02a6,Text,Color,The colors are too similar.,3,1,2,4,"This is one instance where it may be clear enough through text to see the mistake. With visuals, colors the legend may not actually notify the viewer what the problem is. "
+7,5c2677e6ec10810001431001,TextLint,Color,The colours on the graph are too similar.,3,2,1,4,The text gives context for why the visual is there.
+8,5db5d65a57839d000d955bae,Visual,Color,The colours are too similar ,3,1,2,4,Visual wasn't helpful as it points out the key but not the error 
+9,5cfeea9c4954fe00165895e0,Visual,Color,The colors are too similar,3,2,1,4,Text+Visual contains the most info.  Highlighting the legend without any text is not clear what the actual issue is - you have to guess - the text is cleraer
+11,5d150669b296b500187df8f9,TextLint,Color,The colours on the graph are too similar,3,2,1,4,"I dont think the visual shows the error that clearly. you need the text to explain it better,."
+12,5d7101657e53bd000148bdef,TextLint,Color,The colours are too similar ,3,2,1,4,text and visual combines the best of both methods but text is more clear as showing this reasoning 
+13,5d456961810cac00011bbe28,TextLint,Color,the colors are too similar,3,2,1,4,In this case a little bit of text give more help.
+17,5d2249547afc290017e5a8f9,Text,Color,the colours are too similar,3,2,1,4,the text indicates the error but the visual colouring in of the error specifies where the problem arise from.
+20,5ce7f7ae2aa9590016af2ba7,Text,Color,The colours are too similar,3,1,2,4,only the text is needed because the visual is confusing but both are ranked #2 as the visual without the text is most confusing
+21,5bf716d84cf1db0001aa80d8,Visual,Color,The colours in the key are too similar,3,1,2,4,It is quite a straightforward error so text is easy to understand
+22,5cb72e7625f45e0017c31287,Visual,Color,Text,3,1,2,4,"text is most useful, cause after I read this, I know what graph is most helpful"
+23,5c613f2859ec1d0001fe6ea8,Visual,Color,the colors are too similar,3,2,1,4,visual + text was the quicker to make me understand
+24,5beeda51555093000152d513,Text,Color,similar collors,3,2,1,4,"text and visual always better, text is alwasy better than visual because it explains the problem"
+26,5ce91c637d2bca00171a6ea1,TextLint,Color,Colors are too similar,3,1,2,4,Only with the text I could understand what was wrong with the legend. Visual aids to locate the error
+28,5dbe9709c964f836acbe159c,TextLint,Color,colours are too similar,3,1,2,4,its not clear what visual is highlighting on its own. text is very obviios in explaining the error
+29,5d90be048ff8b4001656a6d9,Text,Color,The colours are too similar. ,3,2,1,4,The explanations with text messages are much clearer. The visual alone one relies on you knowing this is different from the original image. 
+30,5c9178d3803bff0001fef762,Text,Color,Colors are too similar,3,2,1,4,Image looks like part of the graph at first and doesn't show what is wrong right away
+31,5dd0409d9ca8a312350a4118,Visual,Color,Colours for each country too similar. ,3,1,2,4,The text clearly explained the problem. The visual made it hard to see how similar the colours were. 
+32,5c3e3f65e466860001c4b785,Text,Color,The colors are too similar,3,2,1,4,Being Told and shown explains the issue more clearly
+34,5d70ec2138ac7e00012f817b,TextLint,Color,Visual,3,1,2,4,"The text is very clear about the error. The visual help, on the other hand is not"
+35,5c1026b7e6eb4e0001b2863c,Text,Color,the colours are too similar,3,1,2,4,"the text clearly explains the issue, whereas visually you have to think about what the issue is"
+37,5b222aff59f9620001c109cb,Visual,Color,The colors are too similar,3,1,2,4,Text explains it right away
+38,5d3f1bbf5edc3a001853870e,Text,Color,the colors are too similar,3,1,2,4,Text explaination was the best in this case
+39,5c665e1948985d0001f09675,Text,Color,the colors are too similar,3,1,2,4,text is very important here because the visual do not convey the error efficiently
+41,5d7f2045056b030015c3a60a,TextLint,Color,colours are too similar,3,1,2,4,text makes  everything cleaer  especially for somethingl iek that 
+45,5d9a74f72aae4c031a29af9b,Visual,Color,Colors are too similar,3,2,1,4,I think text is fundamental because is not something that a lot of people would consider an error.
+47,5cf7cbe401a41f0017d1846f,TextLint,Color,The colours are too similar.,3,2,1,4,"In this situation, we can see what colours the text is referring to and it is more straightforward having both bits of information, rather than one or the other."
+48,5c66cc9246bfc200019044b8,TextLint,Color,The colors are very similar,3,2,1,4,"Text + visual wins the first place again, clear and understandable, but the Text method is understandable thats why i rank it second."
+49,5d4ad488dfd8230018fd0b45,Text,Color,colours are too similar,3,1,2,4,text is clearest
+50,5d349520c5edfe001af7c86b,Text,Color,the colours are two similar ,3,2,1,4,the text and visual gave the most information 
+51,5bd9eb1b1dcc41000132ae7e,Visual,Color,The colours are too similar,3,1,2,4,The text was enough to point out the error
+53,5cd99cab568b5b0001cc6330,None,Color,The colors are too similar,3,1,2,4,"You can easily see that as the colors are too similar, the graph is not understandable"
+54,5db396d5b449ad000cbfc38c,None,Color,The colors of two countries are too similar,3,1,2,4,Text explains the error best because the person can realise it easily. The red box the legend makes it a little bit harder to understand what is going on because the color covers the real purpose.
+56,5c9d2bed010c73001706aeaa,Text,Color,The colors are too similar. ,3,1,2,4,"This is getting rather ridiculous: Text is most impact, followed by text and visual, followed by visual. This is what I think."
+57,5dc1978fdbf8200fe9537083,TextLint,Color,the colours are too similar ,3,2,1,4,The text and visual are the most helpful 
+58,5d02e8a7c087120001942ae7,Visual,Color,The colours are too similar ,3,2,1,4,Option 1 gives a good explanation of the colours. Option 2 also help much more than only visual which does not give enough information..
+61,5daf65969975f80015854b5e,Visual,Color,Colors too similar,3,2,1,4,With the visual + text it is very easy to understand the error. With only the visual method it's somewhat difficult to understand the error because it can be too many things wrong
+62,5c5e3853de929b0001a4d683,Text,Color,The colors are too similar,3,1,2,4,Only with the text helps to understand what is happening
+36,5daa322a47b9d20017a2e968,Visual,Color,colors are similars,4,1,2,3,Only by reading the text you can understand the error here
+1,5d5ef4b0cb2426001974ad74,TextLint,Color,Everything,,,,,Not understand

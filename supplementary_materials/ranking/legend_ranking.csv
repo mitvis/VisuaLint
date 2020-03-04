@@ -1,0 +1,63 @@
+Primary Key,Participant ID,Treatment Group,Error Type ,Error Explanation,Visual,Text,Text+Visual,None of the Above,Rank Explanation
+63,5d5ef4b0cb2426001974ad74,TextLint,Legend,Legend,1,3,2,4,Text prob 
+70,5db5d65a57839d000d955bae,Visual,Legend,There is no key,1,3,2,4,Visual made the absence of the key clear.
+80,5c97f7ed18a759001648027a,Visual,Legend,"There is no legend on the graph, so you are no told what colours mean what",1,2,3,4,"The visual shows straight away where the legend 'should' be, the text also communicates this clearly enough"
+88,5ce91c637d2bca00171a6ea1,TextLint,Legend,No legend shown,1,3,2,4,Visual is quicker and easier to understand. Text also helps but not so quickly
+89,5bfbf60d18430e000186a0b6,TextLint,Legend,there is no legend,1,3,2,4,The red box draws immediate attention to the issue
+97,5c1026b7e6eb4e0001b2863c,Text,Legend,there is no legend,1,3,2,4,the visual stands out the most as it is biggest
+98,5daa322a47b9d20017a2e968,Visual,Legend,No legend.,1,2,3,4,By just looking at the graph you can understand the error so there is no need for the text part
+101,5c665e1948985d0001f09675,Text,Legend,there is no legend,1,3,2,4,only visual is enough to notice legends are missing
+104,5d77eb3007e8770001acdef8,Visual,Legend,No colour legend,1,3,2,4,Really highlights what is missing immediately
+107,5d9a74f72aae4c031a29af9b,Visual,Legend,There is no legend.,1,3,2,4,The visual cue is more than enough helpful and clear.
+111,5d4ad488dfd8230018fd0b45,Text,Legend,no legend in it,1,3,2,4,the visual by itself makes it clear 
+115,5cd99cab568b5b0001cc6330,None,Legend,There is no legend,1,2,3,4,At first impact you can see that legend is missing
+117,5dbf7e6f5b87704112c41466,Visual,Legend,Visual (No legend),1,3,2,4,The visual highlighting of no legend easily explained the error in construction.
+67,56f340a6d70ab40006682a5e,Text,Legend,There is no legend.,2,3,1,4,"The visual is intuitive and makes more sense, with text it's more clear. "
+69,5c2677e6ec10810001431001,TextLint,Legend,There is no legend,2,3,1,4,"The text gives context for the visual, the visual by itself doesn't give a reason for why it's there. On the other hand, the text by itself is easy to miss."
+71,5cfeea9c4954fe00165895e0,Visual,Legend,There is no legend,2,3,1,4,"Since the legend is missing, the visual is clear as to what the problem is, and stand out more than the text"
+72,5781511fad1a6c00014658b7,Text,Legend,there is no legend for the graph.,2,1,3,4,You can see that there is no legend without visual aids.
+73,5d150669b296b500187df8f9,TextLint,Legend,There is no legend (key),2,3,1,4,Using text and visual very simply shows the error in the graph above.
+74,5d7101657e53bd000148bdef,TextLint,Legend,there is no legend ,2,3,1,4,text and visual combines the best of both methods 
+78,de,Text,Legend,Text and visual ,2,3,1,4,The text and visual are important to the overall look 
+81,5dbc5143859674000ebbe28c,Visual,Legend,There is no legend,2,3,1,4,I think text and visual is most helpful because the visual is loud and calls attention and the text explains. I think visual helps more because it jumps out more than the text.
+83,5bf716d84cf1db0001aa80d8,Visual,Legend,"There has been an error, there is no graph loading above",2,3,4,4,"There has been an error, there is no graph loading above"
+95,5a49d6a06d85f80001c25bc4,TextLint,Legend,no legend for the different colors shown,2,3,1,4,"If I wasn't already familiar with this rating scheme, I wouldn't notice the explanation on the text only - as it's just in plain black so doesn't stand out on the graph as an error"
+99,5b222aff59f9620001c109cb,Visual,Legend,there is no legend,2,3,1,4,Text and visual work the best together
+100,5d3f1bbf5edc3a001853870e,Text,Legend,there is no legend,2,1,3,4,Text + visual explaination wasn't necessary in this case
+112,5d349520c5edfe001af7c86b,Text,Legend,there is no legend ,2,3,1,4,the visual and text gave the most information 
+114,5cab8cadd0f9c90016b178b0,TextLint,Legend,"""there is no legend""",2,1,3,4,For this graph text is enough since error is pretty obvious.
+116,5db396d5b449ad000cbfc38c,None,Legend,There is no legend in the graph,2,1,3,4,"Text is the quickest way to tell what is wrong, visual second, while text+visual makes the viewer's concentration divided into two parts (on the red legend part and the text)"
+120,5d02e8a7c087120001942ae7,Visual,Legend,There is no legend,2,3,1,4,"Text and visual give a complete showing of where the error is. The placement of the error and the name of the error. Visual on its own is fine, text on its own gives less information."
+123,5daf65969975f80015854b5e,Visual,Legend,No legend.,2,3,1,4,With the visual + text it is very easy to understand the error. I think the visual method here works fine.
+64,5c2d3ba4731cd10001b647d7,TextLint,Legend,no legend,3,2,1,4,the text calls out to the missing content beign the legend
+65,5a68c6e431b87a0001c753d6,Visual,Legend,there is no legend key,3,2,1,4,nice to clearly see what is missing as well as be told
+66,5c6693d3a3636800013e2a5b,Visual,Legend,There is no legend present,3,2,1,4,The combination of both helps to clearly explain and direct to the error
+68,5d7192103785810001af02a6,Text,Legend,There is no legend.,3,1,2,4,"It seems pretty obvious to most people that they know what a legend is, so a simple text reminder is probably best."
+76,5a6b4cd2d5d4cb0001d64740,Text,Legend,There is no legend,3,2,1,4,"I think it's good to understand why an error is wrong, not just that an error is there. "
+77,5dc38919dcc83f28ec7970a9,Visual,Legend,There is no legend. ,3,2,1,4,The colors are bright and the text is easy to read.
+79,5d2249547afc290017e5a8f9,Text,Legend,there is no legend,3,2,1,4,text and visual shown what was missing(the legend)and shows where it would normally be found . 
+82,5ce7f7ae2aa9590016af2ba7,Text,Legend,There is no legend,3,2,1,4,the text and visual provides the most information but the visual is ranked #2 as it makes the issue more obvious than the text alone
+84,5cb72e7625f45e0017c31287,Visual,Legend,no legend,3,1,2,4,there is no legend on graph
+85,5c613f2859ec1d0001fe6ea8,Visual,Legend,there is no legend,3,1,2,4, text was the quicker to make me understand
+86,5beeda51555093000152d513,Text,Legend,there is no legend,3,2,1,4,same as the previous one
+87,5d7929cc3dd8fd0001de3b98,TextLint,Legend,There is no legend,3,1,2,4,You can see there is no legend and the text point it out to you.
+91,5d90be048ff8b4001656a6d9,Text,Legend,There is no legend,3,2,1,4,Textual explanations are clearer 
+92,5c9178d3803bff0001fef762,Text,Legend,There is no legend,3,2,1,4,The image looks like part of the graph at first
+93,5dd0409d9ca8a312350a4118,Visual,Legend,There is no legend (key). ,3,1,2,4,"Visual makes it look like there is a legend when its actually saying that there is not a legend, confusing. "
+94,5c3e3f65e466860001c4b785,Text,Legend,there isnt a legend,3,2,1,4,Text and visual helps with the explanation.
+96,5d70ec2138ac7e00012f817b,TextLint,Legend,Text,3,2,1,4,"Once again both the visual and the text are really helpful in finding the error, being both number one in my opinion"
+102,5cc99062d918560016acf,TextLint,Legend,Text + visual,3,2,1,4,There is text to say no legend and a red box with the words legend
+103,5d7f2045056b030015c3a60a,TextLint,Legend,there is no  legend,3,1,2,4,the texts just make everything clearer
+105,5c7ead380ce9a10016fb5ebf,Visual,Legend,Legend is missing.,3,2,1,4,I saw no legend.
+106,5d650ee54c485a00018c0747,Text,Legend,No legend written,3,2,1,4,It is better like this to get it
+108,5d2c9ed0a0580000174a22bc,TextLint,Legend,"No legend, vague wording",3,1,2,4,"Saw the text first this time, easier to find than the visual"
+110,5c66cc9246bfc200019044b8,TextLint,Legend,There is no Legend in the graph,3,2,1,4,"Text + visual are the most clear almost always, like in this case."
+113,5bd9eb1b1dcc41000132ae7e,Visual,Legend,there is no legend,3,2,1,4,Text and visual explained the problem of there being no legend on the graph
+118,5c9d2bed010c73001706aeaa,Text,Legend,There is no legend.,3,1,2,4,"Text is most impact, followed by text and visual, followed by visual. This is what I think."
+119,5dc1978fdbf8200fe9537083,TextLint,Legend,There is no legend,3,2,1,4,The text and visual are helpful but the visual on it's own doesn't explain much
+121,5d287be62a33c100167c93c6,Visual,Legend,There is no legend,3,1,2,4,"My first thought wasn't a missing legend, the text helped me./"
+122,5c5f933f59ec1d0001fe64e7,TextLint,Legend,There was no legend,3,1,2,4,I feel like the text actually helped this time because I would have looked at the picture and thought it was the red color
+124,5c5e3853de929b0001a4d683,Text,Legend,There is no legend,3,1,2,4,because the text helps to understand what is happening and with the visual you already fully understand
+75,5d456961810cac00011bbe28,TextLint,Legend,there is no legend,1,3,2,4,Visual is more helpful than text
+90,5dbe9709c964f836acbe159c,TextLint,Legend,there is no legend,,,,4,theyre all equally helpful
+109,5cf7cbe401a41f0017d1846f,TextLint,Legend,There is no legend. ,,,,4,The image is pretty self-explanatory in this scenario.
