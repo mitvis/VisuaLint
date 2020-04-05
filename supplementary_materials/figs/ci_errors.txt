@@ -1,0 +1,127 @@
+{
+  "$schema": "https://vega.github.io/schema/vega-lite/v4.json",
+  "data": {
+    "values": [
+      {
+        "lint": "Color",
+        "condition": "prior",
+        "center": 0.247,
+        "lower": 0.19,
+        "upper": 0.32
+      },
+      {
+        "lint": "Color",
+        "condition": "post",
+        "center": 0.46,
+        "lower": 0.39,
+        "upper": 0.52
+      },
+      {
+        "lint": "Legend",
+        "condition": "prior",
+        "center": 0.3333,
+        "lower": 0.28,
+        "upper": 0.38
+      },
+      {
+        "lint": "Legend",
+        "condition": "post",
+        "center": 0.575,
+        "lower": 0.48,
+        "upper": 0.64
+      },
+      {
+        "lint": "Size",
+        "condition": "prior",
+        "center": 0.0,
+        "lower": 0.0,
+        "upper": 0.0
+      },
+      {
+        "lint": "Size",
+        "condition": "post",
+        "center": 0.129,
+        "lower": 0.08,
+        "upper": 0.17
+      },
+      {
+        "lint": "Axis",
+        "condition": "prior",
+        "center": 0.081,
+        "lower": 0.04,
+        "upper": 0.12
+      },
+      {
+        "lint": "Axis",
+        "condition": "post",
+        "center": 0.178,
+        "lower": 0.10,
+        "upper": 0.25
+      },
+      {
+        "lint": "Rate",
+        "condition": "prior",
+        "center": 0.011,
+        "lower": 0.0,
+        "upper": 0.03
+      },
+      {
+        "lint": "Rate",
+        "condition": "post",
+        "center": 0.151,
+        "lower": 0.08,
+        "upper": 0.22
+      },
+      {
+        "lint": "None",
+        "condition": "prior",
+        "center": 1.0,
+        "lower": 0.95,
+        "upper": 1.0
+      },
+      {
+        "lint": "None",
+        "condition": "post",
+        "center": 0.968,
+        "lower": 0.92,
+        "upper": 1.0
+      }
+    ]
+  },
+  "facet": {
+    "row": {"field": "lint", "type": "nominal", "sort": ["Text", "Visual", "Text+Visual"], "header": {"labelFontStyle": "bold"}, "axis": {"title": null}}
+  },
+    "spec": {
+      "layer": [
+    {
+      "mark": "errorbar",
+      "encoding": {
+        "x": {
+          "field": "upper",
+          "type": "quantitative",
+          "scale": {"zero": false},
+          "axis": {"format": "%", "title": "% correct"}
+        },
+        "x2": {"field": "lower"},
+        "y": {"field": "condition", "type": "ordinal", "axis": {"title": "lint"}, "sort": ["prior", "post"]},
+        "color": {"field": "lint", "type": "nominal", "legend": null}
+      }
+    },
+    {
+      "mark": {
+        "type": "point",
+        "filled": true,
+        "color": "black"
+      },
+      "encoding": {
+        "x": {
+          "field": "center",
+          "type": "quantitative"
+        },
+        "y": {"field": "condition", "type": "ordinal", "sort": ["prior", "post"], "axis": {"title": null}},
+        "color": {"field": "lint", "type": "nominal", "legend": null}
+      }
+    }
+  ]
+  }
+}
